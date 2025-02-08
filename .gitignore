@@ -1,0 +1,4 @@
+quiz-portal.db
+.vscode/*
+OpenQuiz-Portal/OpenQuiz/__pycache__/*
+*.pyc

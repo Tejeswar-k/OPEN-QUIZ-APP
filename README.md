@@ -1,1 +1,1 @@
-# OPEN-QUIZ-APP
+# Open-Quiz-App
